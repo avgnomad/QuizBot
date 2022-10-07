@@ -48,7 +48,7 @@ async def main() -> None:
 
         loop = asyncio.get_event_loop()
 
-        future = asyncio.ensure_future(bot.start(Config.token or ""), loop=loop)
+        future = asyncio.ensure_future(bot.start(config.token or ""), loop=loop)
         loop.add_signal_handler(signal.SIGINT, lambda: future.cancel())
         loop.add_signal_handler(signal.SIGTERM, lambda: future.cancel())
 

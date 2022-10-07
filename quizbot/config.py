@@ -24,10 +24,10 @@ token = os.getenv("TOKEN")
 # required roles to start the quiz.
 # list of role Ids that would be checked on_button_click
 # user needs all roles in this list to start the quiz
-required_roles = [1027932739502080071, 1027932777867399239]  # change examples
+required_roles = [1026541703613653052, 1028000393751429130]  # change examples
 
 # role to be given on successful completion of the quiz
-quiz_role = 1027932804216012881
+quiz_role = 1026541741769236580
 
 
 """
