@@ -1,0 +1,47 @@
+[
+    {
+        "question": "Which of the following countries was the first to send an object into space?",
+        "correct": "Germany",
+        "incorrect": [
+            "USA",
+            "Russia",
+            "China"
+        ]
+    },
+    {
+        "question": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
+        "correct": "Nagasaki",
+        "incorrect": [
+            "Kawasaki",
+            "Tokyo",
+            "Kagoshima"
+        ]
+    },
+    {
+        "question": "How many colors are there in a rainbow?",
+        "correct": "7",
+        "incorrect": [
+            "8",
+            "9",
+            "10"
+        ]
+    },
+    {
+        "question": "What is the capital of the State of Washington, United States?",
+        "correct": "Olympia",
+        "incorrect": [
+            "Washington D.C.",
+            "Seattle",
+            "Yukon"
+        ]
+    },
+    {
+        "question": "Which city hosted the CS:GO Dreamhack Open 2015?",
+        "correct": "Cluj-Napoca",
+        "incorrect": [
+            "Cologne",
+            "Atlanta",
+            "London"
+        ]
+    }
+]
