@@ -1,47 +1,47 @@
 [
     {
-        "question": "Which of the following countries was the first to send an object into space?",
-        "correct": "Germany",
+        "question": "THE SUN RISES WHERE? AND SETS WHERE?",
+        "correct": "East & West",
         "incorrect": [
-            "USA",
-            "Russia",
-            "China"
+            "North & South",
+            "West & North",
+            "South & West"
         ]
     },
     {
-        "question": "During WWII, in 1945, the United States dropped atomic bombs on the two Japanese cities of Hiroshima and what other city?",
-        "correct": "Nagasaki",
+        "question": "THE NAME FOR A BARREN LANDSCAPE WITH HOSTILE CONDITIONS FOR ANIMALS AND PLANTS?",
+        "correct": "Desert",
         "incorrect": [
-            "Kawasaki",
-            "Tokyo",
-            "Kagoshima"
+            "Rainforest",
+            "Glacier",
+            "Coast"
         ]
     },
     {
-        "question": "How many colors are there in a rainbow?",
-        "correct": "7",
+        "question": "WHAT SEASON IS WHEAT HARVESTED IN?",
+        "correct": "Summer",
         "incorrect": [
-            "8",
-            "9",
-            "10"
+            "Spring",
+            "Fall",
+            "Winter"
         ]
     },
     {
-        "question": "What is the capital of the State of Washington, United States?",
-        "correct": "Olympia",
+        "question": "WHAT COLOUR IS AN EMERALD?",
+        "correct": "Green",
         "incorrect": [
-            "Washington D.C.",
-            "Seattle",
-            "Yukon"
+            "Red",
+            "Blue",
+            "White"
         ]
     },
     {
-        "question": "Which city hosted the CS:GO Dreamhack Open 2015?",
-        "correct": "Cluj-Napoca",
+        "question": "I AM AN EASY BLADE TO WIELD, BUT THERE ARE FEW THAT I CALL MASTER. I DON’T ALWAYS WORK, BUT I USUALLY WORK FASTER. WHAT AM I?",
+        "correct": "Dagger",
         "incorrect": [
-            "Cologne",
-            "Atlanta",
-            "London"
+            "Razor",
+            "Scissors",
+            "Fork"
         ]
     }
 ]

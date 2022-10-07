@@ -27,13 +27,13 @@ class Listeners(commands.Cog):
 
         # check if the button click has the required two roles to use this button
         roles = [inter.guild.get_role(int(role)) for role in config.required_roles]
-        role_mentions = ", ".join(
-            [role.mention for role in roles[:-1]] + [f"and {roles[-1].mention}"]
+        role_mentions = " ".join(
+            [role.mention for role in roles[:-1]] + [f"& {roles[-1].mention}"]
         )
 
         if not all(role in inter.author.roles for role in roles):
             return await inter.response.send_message(
-                f"You must have {role_mentions} assigned to you before you can take this quiz.",
+                f"You'll need to have both {role_mentions} roles assigned to you before you can take this quiz. Go chat in <#962390006972944418> to receive enough XP to be assigned the Scoundrel role.",
                 ephemeral=True,
             )
 

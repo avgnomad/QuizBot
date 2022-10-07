@@ -1,7 +1,7 @@
 {
     "962390006972944414": {
-        "quiz_message_id": null,
-        "quiz_channel_id": null,
+        "quiz_message_id": 1028024316903833640,
+        "quiz_channel_id": 1026539824234111057,
         "correct": {
             "thumbnail": {
                 "width": 1000,
@@ -14,14 +14,26 @@
             "title": "Welcome to Gisana!"
         },
         "incorrect": {
+            "thumbnail": {
+                "width": 1000,
+                "url": "https://cdn.discordapp.com/ephemeral-attachments/1028007274913996831/1028019847289897071/ezgif-3-5611c5cbd9.gif",
+                "proxy_url": "https://media.discordapp.net/ephemeral-attachments/1028007274913996831/1028019847289897071/ezgif-3-5611c5cbd9.gif",
+                "height": 1000
+            },
             "type": "rich",
-            "description": "Example embed description",
-            "title": "Example Embed Title"
+            "description": "The guards at the gates of Gisana believed you to be unworthy. ||Not enough questions answered correctly.||\n\nDon't worry though, you'll just have to **wait 10min** before trying again. 3rd time's the charm? :eyes:",
+            "title": "Oof... unlucky!"
         },
         "quiz": {
+            "thumbnail": {
+                "width": 1000,
+                "url": "https://cdn.discordapp.com/ephemeral-attachments/1028007274913996831/1028023245754081310/ezgif-3-5611c5cbd9.gif",
+                "proxy_url": "https://media.discordapp.net/ephemeral-attachments/1028007274913996831/1028023245754081310/ezgif-3-5611c5cbd9.gif",
+                "height": 1000
+            },
             "type": "rich",
-            "description": "Example embed description",
-            "title": "Example Embed Title"
+            "description": "You've overcome all the requirements, and are now ready to begin your journey into being let through the Gates of Gisana. Good luck!",
+            "title": "OG Pass Quiz"
         },
         "quizzed": []
     }
